@@ -1,0 +1,10 @@
+Corn @Vegetable
+Jerky Beef @Meat
+Milk @Dairy
+Carrot @Vegetable
+Chicken Breast @Meat
+Cheese @Dairy
+Broccoli @Vegetable
+Fish Fillet @Seafood
+Apple @Fruit
+Salmon @Seafood
